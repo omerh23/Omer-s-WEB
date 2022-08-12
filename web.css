@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding: 1%;
 }
 
 .main_div
@@ -10,7 +11,7 @@ body{
     padding: 5px;
 }
 
-.text-md-center
+.main_h
 {
     background: rgb(214, 211, 211);
     text-align: center;
