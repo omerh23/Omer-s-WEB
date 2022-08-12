@@ -2,7 +2,8 @@ body{
     margin: 0;
 }
 .home{
-    text-align: right;
+    margin-left: 40px;
+    margin-top: 10px;
 }
 
 h1{
