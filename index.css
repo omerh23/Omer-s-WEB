@@ -1,12 +1,11 @@
 body{
     margin: 0;
-    padding: 1%;
+    
 }
 
 .main_div
 {
     width: 800px;
-    /* padding: 30px; */
     margin: 0 auto;
     padding: 5px;
 }
@@ -33,6 +32,15 @@ body{
     background: rgb(241, 235, 235);
     
 }
+
+.bg_carusel
+{
+    min-height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+
+
 
 
 
